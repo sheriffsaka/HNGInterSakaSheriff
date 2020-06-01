@@ -1,2 +1,2 @@
 # HNGInterSakaSheriff
-This is sample repo for my account in HNGi7 2020.
+This is sample repo for my project account in HNGi7 2020.
